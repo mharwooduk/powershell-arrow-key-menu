@@ -27,6 +27,8 @@ cd powershell-arrow-key-menu
 .\car-menu-example.ps1
 ```
 
+Or save everything (function + arrays + calls) locally as car-menu-example.ps1, then run:
+
 ```powershell
 & "$HOME\car-menu-example.ps1"
 ```
