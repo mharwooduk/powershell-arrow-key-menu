@@ -20,6 +20,13 @@ The script uses `[Console]::ReadKey` and will not work when stdin is redirected 
 
 ## Run
 
+### Clone from GitHub and run
+```powershell
+git clone https://github.com/mharwooduk/powershell-arrow-key-menu.git
+cd powershell-arrow-key-menu
+.\car-menu-example.ps1
+```
+
 ```powershell
 & "$HOME\car-menu-example.ps1"
 ```
